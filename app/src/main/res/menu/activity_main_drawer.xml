@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_insereGasto"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Inserir Despesa" />
+        <item
+            android:id="@+id/nav_listaGasto"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Listar Despesas" />
+        <item
+            android:id="@+id/nav_deletaGasto"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Remover Despesa" />
+
+    </group>
+
+    <item android:title="Perfil">
+        <menu>
+            <item
+                android:id="@+id/nav_configuracao"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Perfil" />
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartilhar" />
+        </menu>
+    </item>
+
+
+</menu>

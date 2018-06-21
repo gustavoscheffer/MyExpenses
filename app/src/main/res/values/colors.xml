@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC20F</color>
+    <color name="colorPrimaryDark">#EFB509</color>
+    <color name="colorAccent">#A1282F</color>
+
+    <!--DEFAULT COLORS-->
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+
+    <!--Green Style-->
+    <color name="material_green_50">#FFC20F</color>
+    <color name="material_green_500">#A1282F</color>
+    <color name="material_green_700">#A1282F</color>
+    <color name="material_green_a200">#FFC20F</color>
+    <color name="material_lime_a700">#A1282F</color>
+    <color name="material_purple_a700">#A1282F</color>
+</resources>

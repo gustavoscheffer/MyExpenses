@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "271460030786",
+    "firebase_url": "https://myespenses.firebaseio.com",
+    "project_id": "myespenses",
+    "storage_bucket": "myespenses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271460030786:android:8f12b298db6f1376",
+        "android_client_info": {
+          "package_name": "br.com.fadergs.myexpenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271460030786-rp2dmrqhoog6q2ivoct0ge0fkg90ig6k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "271460030786-rp2dmrqhoog6q2ivoct0ge0fkg90ig6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfNV-BlX__Q-m8s-kMBlA-4U3RmocyL0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
